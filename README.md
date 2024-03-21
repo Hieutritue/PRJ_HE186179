@@ -28,5 +28,28 @@ path/admin/dashboard: show dashboard
 
 ### User page
 
-## User login
-![Image Alt Text](./Readmeimg/image.png)
+#### User login
+![Image Alt Text](./Readmeimg/login.png)
+
+#### Display page
+![Image Alt Text](./Readmeimg/display.png)
+
+#### User cart
+![Image Alt Text](./Readmeimg/cart.png)
+
+#### User checkout
+![Image Alt Text](./Readmeimg/xacnhan.png)
+
+#### User orders
+![Image Alt Text](./Readmeimg/donhanguser.png)
+
+### Amin page
+
+#### Admin login
+![Image Alt Text](./Readmeimg/adminlogin.png)
+
+#### Item management site
+![Image Alt Text](./Readmeimg/adminmangage.png)
+
+#### Admin dashboard
+![Image Alt Text](./Readmeimg/dashboard.png)
