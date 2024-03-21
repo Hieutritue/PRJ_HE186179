@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/thail/Documents/NetBeansProjects/PRJ_HE186179/web/home.jsp</file>
+            <file>file:/C:/Users/thail/Documents/NetBeansProjects/PRJ_HE186179/src/java/Controller/DeleteCartServlet.java</file>
+            <file>file:/C:/Users/thail/Documents/NetBeansProjects/PRJ_HE186179/web/admin/AdminHome.jsp</file>
+            <file>file:/C:/Users/thail/Documents/NetBeansProjects/PRJ_HE186179/src/java/Controller/LoginServlet.java</file>
+            <file>file:/C:/Users/thail/Documents/NetBeansProjects/PRJ_HE186179/src/java/Controller/Checkout.java</file>
+            <file>file:/C:/Users/thail/Documents/NetBeansProjects/PRJ_HE186179/web/index.html</file>
+            <file>file:/C:/Users/thail/Documents/NetBeansProjects/PRJ_HE186179/web/admin/AdminAddProduct.jsp</file>
+            <file>file:/C:/Users/thail/Documents/NetBeansProjects/PRJ_HE186179/src/java/Controller/AdminLoginServlet.java</file>
+            <file>file:/C:/Users/thail/Documents/NetBeansProjects/PRJ_HE186179/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/thail/Documents/NetBeansProjects/PRJ_HE186179/src/java/Controller/AddToCartServlet.java</file>
+            <file>file:/C:/Users/thail/Documents/NetBeansProjects/PRJ_HE186179/src/java/Controller/UpdateInfoServlet.java</file>
+            <file>file:/C:/Users/thail/Documents/NetBeansProjects/PRJ_HE186179/src/java/Controller/HomeServlet.java</file>
+            <file>file:/C:/Users/thail/Documents/NetBeansProjects/PRJ_HE186179/web/admin/assets/demo/datatables-demo.js</file>
+            <file>file:/C:/Users/thail/Documents/NetBeansProjects/PRJ_HE186179/web/admin/assets/img/error-404-monochrome.svg</file>
+            <file>file:/C:/Users/thail/Documents/NetBeansProjects/PRJ_HE186179/web/admin/AdminUpdateProduct.jsp</file>
+            <file>file:/C:/Users/thail/Documents/NetBeansProjects/PRJ_HE186179/src/java/Controller/UpdateCartServlet.java</file>
+            <file>file:/C:/Users/thail/Documents/NetBeansProjects/PRJ_HE186179/src/java/dal/DbContext.java</file>
+            <file>file:/C:/Users/thail/Documents/NetBeansProjects/PRJ_HE186179/web/admin/AdminDashboard.jsp</file>
+            <file>file:/C:/Users/thail/Documents/NetBeansProjects/PRJ_HE186179/web/success.jsp</file>
+            <file>file:/C:/Users/thail/Documents/NetBeansProjects/PRJ_HE186179/web/public/img/logo.jpg</file>
+            <file>file:/C:/Users/thail/Documents/NetBeansProjects/PRJ_HE186179/src/java/Controller/AdminHomeServlet.java</file>
+            <file>file:/C:/Users/thail/Documents/NetBeansProjects/PRJ_HE186179/src/java/Controller/AdminLogoutServlet.java</file>
+            <file>file:/C:/Users/thail/Documents/NetBeansProjects/PRJ_HE186179/src/java/Controller/LogoutServlet.java</file>
+            <file>file:/C:/Users/thail/Documents/NetBeansProjects/PRJ_HE186179/src/java/Controller/AdminUpdateProduct.java</file>
+            <file>file:/C:/Users/thail/Documents/NetBeansProjects/PRJ_HE186179/web/header.jsp</file>
+            <file>file:/C:/Users/thail/Documents/NetBeansProjects/PRJ_HE186179/src/java/Controller/AdminAddProduct.java</file>
+            <file>file:/C:/Users/thail/Documents/NetBeansProjects/PRJ_HE186179/src/java/Controller/AdminDashboardServlet.java</file>
+            <file>file:/C:/Users/thail/Documents/NetBeansProjects/PRJ_HE186179/web/admin/assets/demo/chart-pie-demo.js</file>
+            <file>file:/C:/Users/thail/Documents/NetBeansProjects/PRJ_HE186179/src/java/Controller/SignupServlet.java</file>
+            <file>file:/C:/Users/thail/Documents/NetBeansProjects/PRJ_HE186179/web/checkout.jsp</file>
+            <file>file:/C:/Users/thail/Documents/NetBeansProjects/PRJ_HE186179/web/admin/AdminAddCategory.jsp</file>
+            <file>file:/C:/Users/thail/Documents/NetBeansProjects/PRJ_HE186179/web/admin/assets/demo/chart-area-demo.js</file>
+            <file>file:/C:/Users/thail/Documents/NetBeansProjects/PRJ_HE186179/src/java/Controller/AdminAddCategory.java</file>
+            <file>file:/C:/Users/thail/Documents/NetBeansProjects/PRJ_HE186179/web/info_account.jsp</file>
+            <file>file:/C:/Users/thail/Documents/NetBeansProjects/PRJ_HE186179/src/java/dal/AccountDAO.java</file>
+            <file>file:/C:/Users/thail/Documents/NetBeansProjects/PRJ_HE186179/src/java/Controller/AccountServlet.java</file>
+            <file>file:/C:/Users/thail/Documents/NetBeansProjects/PRJ_HE186179/web/admin/assets/demo/chart-bar-demo.js</file>
+        </group>
+    </open-files>
+</project-private>
