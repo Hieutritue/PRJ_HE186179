@@ -49,7 +49,7 @@ path/admin/dashboard: show dashboard
 ![Image Alt Text](./Readmeimg/adminlogin.png)
 
 #### Item management site
-![Image Alt Text](./Readmeimg/adminmangage.png)
+![Image Alt Text](./Readmeimg/adminmanage.png)
 
 #### Admin dashboard
 ![Image Alt Text](./Readmeimg/dashboard.png)
